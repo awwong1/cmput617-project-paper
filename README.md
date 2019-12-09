@@ -2,7 +2,8 @@
 
 Deep Learning Approaches for Intracranial Hemorrhage Sub-Type Classification
 
-Source code: [github.com/awwong1/rsna-hemorrhage-classification](https://github.com/awwong1/rsna-hemorrhage-classification)
+* [Project Source code](https://github.com/awwong1/rsna-hemorrhage-classification)
+* [Presentation Slides](https://docs.google.com/presentation/d/1o4foiypGD83mFpofK7NsaM_SfwlqJmzWRTYnJl_BfjY/edit?usp=sharing)
 
 ## License
 
